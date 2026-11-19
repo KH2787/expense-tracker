@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../CS1436/CS Work/main.cpp/Tutorials"
+		},
+		{
+			"path": "../../CS1436/CS Work/main.cpp/1337BoxFolderCodes"
+		},
+		{
+			"path": "../../CS2336/Java/Guides"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"xstring": "cpp",
+			"iosfwd": "cpp",
+			"utility": "cpp",
+			"xutility": "cpp",
+			"fstream": "cpp",
+			"iomanip": "cpp"
+		},
+		"java.project.sourcePaths": []
+	}
+}
+
